@@ -11,3 +11,8 @@ Para quem quiser ver como é o jogo, segue o link:
   
 [Linux_x64](https://drive.google.com/file/d/1rehLupXigpvN8tx-akqUWKxQheQKwoxf/view?usp=sharing)  
 [Windows_x64](https://drive.google.com/file/d/1gz8hiAigp1ePWqTRvfDldm4YXgB5-YEv/view?usp=sharing)
+ 
+  
+# Referência
+[Music by: airtone](https://ccmixter.org/files/airtone/65416)  
+[Font by: Fontfabric](https://www.dafont.com/pt/nexa.font)
