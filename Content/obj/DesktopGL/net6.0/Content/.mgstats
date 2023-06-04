@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/otaviano/Documentos/PROJETOS/HashGame/Content/Font.ttf","/home/otaviano/Documentos/PROJETOS/HashGame/Content/bin/DesktopGL/Content/Font.ttf","CopyItem","File",152248,152248,0.0035513
+"/home/otaviano/Documentos/PROJETOS/HashGame/Content/License.txt","/home/otaviano/Documentos/PROJETOS/HashGame/Content/bin/DesktopGL/Content/License.txt","CopyItem","File",148,148,0.0006257
+"/home/otaviano/Documentos/PROJETOS/HashGame/Content/Music.mp3","/home/otaviano/Documentos/PROJETOS/HashGame/Content/bin/DesktopGL/Content/Music.xnb","SongProcessor","SongContent",10565006,123,15.632362

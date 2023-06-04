@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/otaviano/Documentos/PROJETOS/HashGame/Content/Music.mp3</SourceFile>
+  <SourceTime>2023-05-21T23:08:40.39292-03:00</SourceTime>
+  <DestFile>/home/otaviano/Documentos/PROJETOS/HashGame/Content/bin/DesktopGL/Content/Music.xnb</DestFile>
+  <DestTime>2023-06-03T15:16:03.2361602-03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T08:44:56-03:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T08:44:56-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/home/otaviano/Documentos/PROJETOS/HashGame/Content/bin/DesktopGL/Content/Music.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
